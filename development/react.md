@@ -42,7 +42,9 @@ Description : mon site CV. Encore basique par manque de temps
 
 ### Utilisation en environement professionnel ❌
 
-Description : on commence la semaine prochaine.
+Description : utilisé pour créer des composants et pages pour le projet 1Village de Par Le Monde.
+Pour l'instant que des petites pages.
+
 
 ## 🌐 J'utilise des ressources
 Axios, react hook form, argon2, joi, etc.
