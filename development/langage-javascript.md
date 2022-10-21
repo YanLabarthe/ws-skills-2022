@@ -15,7 +15,14 @@
 ### Un exemple de code commenté  ✔️
 
 ```javascript
-// ??? 
+
+const newArr=[]
+for (let i=0; i<arr.length; i++){
+if(arr[i]%2===0){
+newArr.push(arr[i]
+}
+}
+
 ```
 
 ### Utilisation dans un projet  ✔️
@@ -27,14 +34,14 @@ Mon site CV. Encore basique par manque de temps.
 
 ### J'ai utilisé ce langage en production ✔️
 
-[lien du projet](...)
+[lien du projet] https://github.com/parlemonde/1village
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌
+### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
-Pas encore.
+Oui pour créer des pages et composant en React.
 
 ## 🌐 J'utilise des ressources
 
