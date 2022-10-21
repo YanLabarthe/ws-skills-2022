@@ -10,11 +10,11 @@
     Débugger. Rendre les projets scalable.
 - les types de bases ✔️
 - comment et pourquoi étendre une interface ✔️
-- les classes et les decorators ❌
+- les classes et les decorators ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
 Interface IPerson {
 name: string,
@@ -24,22 +24,22 @@ description?: string
 
 const person1 : IPerson = {name: "Yan", age: 30};
 
-### Utilisation dans un projet ❌
-Pas encore utilisé. Si ce n'est le projet de formation de la Wild Code School.
+### Utilisation dans un projet ✔️
+Le projet 1Village utilise un TypeScript strict. Aussi, toutes nos pages / composants et le back sont typés.
 
-[lien github] :
+[lien github] : https://github.com/parlemonde/1village
 
-Description :
+Description : 
 
-### Utilisation en production si applicable❌
-Pas encore utilisé. Si ce n'est le projet de formation de la Wild Code School.
+### Utilisation en production si applicable ✔️
+Des composants et pages que j'ai créés sont utilisés actuellement par les professeurs de l'association et son visibles sur le site (à condition d'avoir les accès) ou sur le git.
 
-[lien du projet]
+[lien du projet] https://github.com/parlemonde/1village
 
 Description :
 
 ### Utilisation en environement professionnel ❌
-Pas encore utilisé. Si ce n'est le projet de formation de la Wild Code School.
+Des composants et pages que j'ai créés sont utilisés actuellement par les professeurs de l'association et son visibles sur le site (à condition d'avoir les accès) ou sur le git.
 
 Description :
 
